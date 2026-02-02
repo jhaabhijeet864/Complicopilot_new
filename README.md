@@ -198,12 +198,6 @@ python backend/test_ocr.py --dir backend/uploads/test
 
 ---
 
-## 🏆 Acknowledgments
-
-Special recognition to **Abhijeet Jha** for his exceptional contributions to the OCR implementation, backend architecture, and Firebase integration that made this project a success.
-
----
-
 ## 📜 License
 
 MIT License - Feel free to use this project for educational and commercial purposes.
